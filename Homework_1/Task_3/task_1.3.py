@@ -16,4 +16,5 @@ def find_coordinate(x, y):
 
 num_1 = int(input('\nВведите координату X: '))
 num_2 = int(input('Введите координату Y: '))
+
 find_coordinate(num_1, num_2)
